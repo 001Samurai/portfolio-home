@@ -483,7 +483,7 @@ strong {
 }HERO              
 -----------------------------------------*/
 .hero {
-  background-image: url("../images/pexels-felix-mittermeier-956999.jpg");
+  background-image: url(https://digitalmagics.imgix.net/pexels-felix-mittermeier-956999.jpg?fit=crop&auto=format,compress,enhance&q=60);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -492,7 +492,7 @@ strong {
 }
 
 .blog-header {
-  background-image: url("../images/pexels-felix-mittermeier-956999.jpg");
+  background-image: url(https://digitalmagics.imgix.net/pexels-felix-mittermeier-956999.jpg?fit=crop&auto=format,compress,enhance&q=60);
   background-size: cover;
   background-position: center;
   position: relative;
