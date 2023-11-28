@@ -385,6 +385,9 @@ strong {
   padding-bottom: 15px;
 }
 
+#blog-post-nav .nav-link,  .navbar-brand {
+  color:black;
+}
 .navbar-nav .nav-link::after {
   content: "";
   background: transparent;
@@ -487,8 +490,8 @@ strong {
   background-size: cover;
   background-position: center;
   position: relative;
-  padding-top: 330px;
-  padding-bottom: 330px;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 
 .blog-header {
@@ -501,6 +504,8 @@ strong {
 @media  screen and (min-width: 991px) {
   .hero {
     height: 60vh;
+    padding-bottom: 300px;
+    padding-top: 300px;
   }
 }
 
@@ -1132,7 +1137,7 @@ TESTIMONIAL
 
   .hero {
     padding-top: 200px;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
   }
 
   .hero-text {
