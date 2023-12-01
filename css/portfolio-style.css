@@ -158,8 +158,8 @@ strong {
 }
 
 .avatar-image-large {
-  width: 90.4px;
-  height: 90.4px;
+  width: 110.4px;
+  height: 110.4px;
 }
 
 
@@ -385,7 +385,7 @@ strong {
   padding-bottom: 15px;
 }
 
-#blog-post-nav .nav-link,  .navbar-brand {
+#blog-post-nav .nav-link .navbar-brand {
   color:black;
 }
 .navbar-nav .nav-link::after {
@@ -888,7 +888,7 @@ strong {
 
 .custom-form .form-control:hover,
 .custom-form .form-control:focus {
-  background: transparent;
+  background: rgb(249 249 249 / 80%);
   border-color: var(--secondary-color);
 }
 
