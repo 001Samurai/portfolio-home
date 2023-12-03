@@ -993,6 +993,9 @@ TESTIMONIAL
   color: var(--white-color);
 }
 
+.footer-links {
+  list-style: none;
+}
 
 /*---------------------------------------
   SOCIAL ICON               
