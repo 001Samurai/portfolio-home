@@ -503,7 +503,7 @@ strong {
 
 @media  screen and (min-width: 991px) {
   .hero {
-    height: 60vh;
+    height: 70vh;
     padding-bottom: 300px;
     padding-top: 300px;
   }
